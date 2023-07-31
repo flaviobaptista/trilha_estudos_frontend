@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="./12063795_4884785.jpg" width="550px" alt="Descrição da imagem">
+</p>
+
+<br>
+<br>
+
 # Trilha de Estudos para Frontend
 Bem-vindo à Trilha de Estudos para Frontend! Este é um projeto destinado a ajudar iniciantes a se familiarizarem com os conceitos e tecnologias do desenvolvimento front-end. Aqui, você encontrará uma lista organizada de cursos e recursos úteis para aprender HTML, CSS, JavaScript, Bootstrap, Tailwind e Next.js.
 
@@ -49,6 +56,8 @@ Este projeto está sob a licença MIT.
 - [Canal Ricardo Maroquio YouTube - Playlist de Bootstrap](https://www.youtube.com/@maroquio)
 - [Canal Tiago Matos YouTube - Playlist de Tailwind](https://www.youtube.com/@tiagomatosweb)
 - [Canal DeveloperDeck101 YouTube - Playlist de Next.js](https://www.youtube.com/@DeveloperDeck101)
+
+Imagem de <a href="https://br.freepik.com/vetores-gratis/desenvolvedores-web-desenhados-a-mao_12063795.htm#query=frontend&position=36&from_view=search&track=sph">Freepik</a>
 
 
 # Agradecimentos
